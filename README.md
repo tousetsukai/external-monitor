@@ -7,5 +7,5 @@ Firebase Functions を利用して行灯職人への道の外形監視をし、�
 --------------
 
 ```
-firebase functions:config:set webhookUrl="https://hooks.slack.com/services/xxxxxxx/xxxxxxx/xxxxxxxxxxxxxxx"
+firebase functions:config:set slack.url="https://hooks.slack.com/services/xxxxxxx/xxxxxxx/xxxxxxxxxxxxxxx"
 ```
